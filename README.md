@@ -24,10 +24,9 @@ Full stack web development and hodgepodge of other things.
 
 ### Other
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-+ ton of other frameworks/libraries not listed above.
 
 
-Hobbyist developer learning a lot of new things. I help out sometimes. Worked on a lot of things here and there. I love programming/computer science and want to get into startups.
+Hobbyist developer learning a lot of new things. I help out sometimes. Worked on a lot of things here and there, above does not include a bunch of other stuff I've used. I love programming/computer science and want to get into startups.
 
 <!--
 **bruhbruhroblox/bruhbruhroblox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
