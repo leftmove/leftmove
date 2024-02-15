@@ -33,10 +33,10 @@ Full stack web development and hodgepodge of other things.
 
 Hobbyist developer learning a lot of new things. I want to get into startups.
 
-![kevin hart](https://github.com/bruhbruhroblox/bruhbruhroblox/assets/73859069/0e2713cb-0c7b-4488-8bf8-58af576fab08)
 
 <!--
 **bruhbruhroblox/bruhbruhroblox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![kevin hart](https://github.com/bruhbruhroblox/bruhbruhroblox/assets/73859069/0e2713cb-0c7b-4488-8bf8-58af576fab08)
 
 Here are some ideas to get you started:
 
