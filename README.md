@@ -1,9 +1,11 @@
 
 
 
-#
+### Hi.
 
-Full stack web development and hodgepodge of other things.
+I'm a seventeen year old from Southeast Michigan, and am currently in high school. I do full stack web development and a hodgepodge of other things.
+
+<!--
 
 ### Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -31,8 +33,10 @@ Full stack web development and hodgepodge of other things.
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
-Hobbyist developer learning a lot of new things. I want to get into startups.
 
+-->
+
+Software development for is my main hobby, and I love learning new things. I want to get into startups.
 
 <!--
 **bruhbruhroblox/bruhbruhroblox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
