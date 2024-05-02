@@ -36,7 +36,7 @@ I'm a seventeen year old from Southeast Michigan, and am currently in high schoo
 
 -->
 
-Software development for is my main hobby, and I love learning new things. I want to get into startups.
+Software development is my main hobby, because I love learning new things. I want to get into startups.
 
 <!--
 **bruhbruhroblox/bruhbruhroblox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
