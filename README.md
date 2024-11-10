@@ -3,7 +3,7 @@
 
 ### Hi.
 
-I'm an eighteen year old from Southeast Michigan, and will be going to college (MSU) soon. I do full stack web development and a hodgepodge of other things.
+Eighteen year old from Southeast Michigan, and going to MSU. I do full stack web development and a couple of other things.
 
 <!--
 
