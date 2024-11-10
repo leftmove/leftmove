@@ -1,8 +1,3 @@
-
-
-
-### Hi.
-
 Eighteen year old from Southeast Michigan, and going to MSU. I do full stack web development and a couple of other things.
 
 <!--
