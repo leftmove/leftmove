@@ -1,4 +1,4 @@
-Eighteen year old from Southeast Michigan, attending MSU. I do full stack web development and a couple of other things.
+Nineteen year old from Southeast Michigan, attending MSU. I do full stack web development and a couple of other things.
 
 <!--
 
